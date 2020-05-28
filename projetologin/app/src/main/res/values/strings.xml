@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="formulario_de_aceite">Formulário de Aceite</string>
+    <string name="Txt_termoUso">Li e Concordo com a Politica de Privacidade.</string>
+</resources>
